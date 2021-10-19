@@ -1,0 +1,3 @@
+from gym_stage.envs.robots.stage_icra_rm_lidar import StageICRALidarNNEnv
+from gym_stage.envs.robots.stage_car_lidar import StageMazeCarLidarNNEnv
+from gym_stage.envs.robots.stage_camp_lidar import StageCampCarLidarNNEnv

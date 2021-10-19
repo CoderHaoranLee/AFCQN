@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/drl/catkin_ws/Model2/model.ckpt"
+all_model_checkpoint_paths: "/home/drl/catkin_ws/Model2/model.ckpt"

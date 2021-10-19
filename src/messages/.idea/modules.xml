@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/messages.iml" filepath="$PROJECT_DIR$/.idea/messages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../qt_ws/src/position_plot/.idea/position_plot.iml" filepath="$PROJECT_DIR$/../../../qt_ws/src/position_plot/.idea/position_plot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../qt_ws/src/position_tracking_in_map/.idea/position_tracking_in_map.iml" filepath="$PROJECT_DIR$/../../../qt_ws/src/position_tracking_in_map/.idea/position_tracking_in_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../qt_ws/src/recode_uwb/.idea/recode_uwb.iml" filepath="$PROJECT_DIR$/../../../qt_ws/src/recode_uwb/.idea/recode_uwb.iml" />
+    </modules>
+  </component>
+</project>
